@@ -1,4 +1,4 @@
-package com.atguigu.sdg.governance.access.impl.NoAccess;
+package com.atguigu.sdg.governance.access.impl.cacl;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;

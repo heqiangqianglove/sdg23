@@ -1,4 +1,4 @@
-package com.atguigu.sdg.governance.access.impl.TecOwner;
+package com.atguigu.sdg.governance.access.impl.spec;
 
 import com.atguigu.sdg.governance.access.Access;
 import com.atguigu.sdg.governance.bean.GovernanceAssessDetail;

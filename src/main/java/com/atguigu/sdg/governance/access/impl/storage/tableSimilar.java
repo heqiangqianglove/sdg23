@@ -1,4 +1,4 @@
-package com.atguigu.sdg.governance.access.impl.TableSimilar;
+package com.atguigu.sdg.governance.access.impl.storage;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
